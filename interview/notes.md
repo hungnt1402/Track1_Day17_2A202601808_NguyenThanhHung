@@ -6,7 +6,7 @@
 |---|---|
 | **Case** | Case B — AI Notes: Personal Learning Notes |
 | **Vai trò của mình** | Interviewer |
-| **Người được phỏng vấn** | Sinh viên (ẩn danh — gọi là P1), đang học các môn có slide giảng trên V-Learn |
+| **Người được phỏng vấn** | Học viên MHV 2A202601870, đang học các môn có slide giảng trên V-Learn |
 | **Ngày phỏng vấn** | 17/08/2026 |
 | **Thời lượng** | ~2 phút 06 giây |
 | **Hình thức** | Trực tiếp, có ghi âm |
