@@ -9,7 +9,7 @@
 - Trần Thanh Huyền - 2A202601578
 - Thiều Thị Ngọc Ánh - 2A22601864
 - Đỗ Quý Đức - 2A202601628
-- Nguyễn Thanh Hùng - 2A2026
+- Nguyễn Thanh Hùng - 2A202601808
 
 ---
 
